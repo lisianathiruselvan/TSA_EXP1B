@@ -53,6 +53,8 @@ y=data2['log']
 plt.xlabel('Rank')
 plt.ylabel('Percentage')
 plt.plot(x,y)
+
+```
 ### OUTPUT:
 PLOT WITHOUT CONVERSION:
 
@@ -60,6 +62,7 @@ PLOT WITHOUT CONVERSION:
 
 
 REGULAR DIFFERENCING:
+
 ![Screenshot 2025-03-18 132532](https://github.com/user-attachments/assets/75a46617-a9db-498e-b786-48519365ba68)
 
 
@@ -73,7 +76,8 @@ SEASONAL ADJUSTMENT:
 
 LOG TRANSFORMATION:
 
-![Screenshot 2025-03-18 132516](https://github.com/user-attachments/assets/86ab14b7-8f70-4f60-999a-4e9cc50ee379)
+![Screenshot 2025-03-18 132411](https://github.com/user-attachments/assets/dae910b6-0e98-43e9-aeec-993f10a2c0eb)
+
 
 
 
