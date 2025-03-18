@@ -56,22 +56,24 @@ plt.plot(x,y)
 ### OUTPUT:
 PLOT WITHOUT CONVERSION:
 
-![image](https://github.com/user-attachments/assets/eecf7034-1df4-48e5-83ac-bb423a40a417)
+![Screenshot 2025-03-18 132516](https://github.com/user-attachments/assets/8f9663ab-e8fa-40ba-9512-e88c76ba42bd)
 
 
 REGULAR DIFFERENCING:
-![image](https://github.com/user-attachments/assets/0da6cc35-661f-4d9c-b777-aba95e3641fa)
+![Screenshot 2025-03-18 132532](https://github.com/user-attachments/assets/75a46617-a9db-498e-b786-48519365ba68)
+
 
 
 SEASONAL ADJUSTMENT:
 
-![image](https://github.com/user-attachments/assets/aabebc82-b449-4bb0-9529-75718ad9e7ae)
+![Screenshot 2025-03-18 132516](https://github.com/user-attachments/assets/d1e26661-bc39-4039-a4ff-465d26cfad2c)
+
 
 
 
 LOG TRANSFORMATION:
 
-![image](https://github.com/user-attachments/assets/f31a09cb-a3f1-4adf-9133-7c6a6e985181)
+![Screenshot 2025-03-18 132516](https://github.com/user-attachments/assets/86ab14b7-8f70-4f60-999a-4e9cc50ee379)
 
 
 
